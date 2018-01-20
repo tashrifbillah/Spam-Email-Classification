@@ -37,4 +37,4 @@ The total running time should be ~25 minutes.
 
 # 3. Parameter Tuning
 The C, Sigma, and p parameters are adjusted through cross validation when using different Kernels. Feel free to play around with
-provided functions that start with '''+ Cross_Validation_''' to get a better result.
+provided functions that start with Cross_Validation_ to get a better result.
