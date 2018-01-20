@@ -28,7 +28,8 @@ email is represented by 1899x1 feature vector.
 Call the function [Main_Soft_Margin.m](Spam-Email-Identification/Main_Soft_Margin.m)
 
 The main function implements [soft margin SVM](http://www.di.ens.fr/~mallat/papiers/svmtutorial.pdf) for the classification purpose.
-An example feature set is provided for testing. However, you can make the feature set from scratch following the method described above.
+Example feature sets are provided for testing which are all the files with .mat extension.
+However, you can make the feature set from scratch following the method described above.
 
 In line 29 of Main_Soft_Margin.m, the mutually exclusive train to test data ratio is set to 0.8. Feel free to vary it in [0.7, 0.9]
 to observe the performance of the algorithm. The code will run 5 times to give the user an idea about the algorithm performance.
