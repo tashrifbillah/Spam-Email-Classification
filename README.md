@@ -12,7 +12,7 @@ The steps are briefly elaborated below. However, please see the
 for detailed description.
 
 # 1. Feature Extraction
-Call the function [feature_extraction.m](https://github.com/tashrifbillah/Spam-Email-Identification/blob/master/feature_extraction.m)
+Call the function [email_representation.m](https://github.com/tashrifbillah/Spam-Email-Identification/blob/master/email_representation.m)
 
 The database of comes with 6,050 emails with a spam ratio of 30%. Firstly, all the emails are renamed as .txt file
 using rename.m code. After all the files are accessible, a feature
