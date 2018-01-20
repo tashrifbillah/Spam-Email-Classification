@@ -8,7 +8,8 @@ The learning object was to familiarize with CVX toolbox on MATLAB and coding SVM
     3. Parameter Tuning
 
 The steps are briefly elaborated below. However, please see the 
-[project report](Spam-Email-Identification/Spam Email Classification Project.pdf) for detailed description.
+[project report](https://github.com/tashrifbillah/Spam-Email-Identification/blob/master/Spam%20Email%20Classification%20Project.pdf)
+for detailed description.
 
 # 1. Feature Extraction
 Call the function [feature_extraction.m](https://github.com/tashrifbillah/Spam-Email-Identification/blob/master/feature_extraction.m)
